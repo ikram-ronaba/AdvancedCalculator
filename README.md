@@ -70,9 +70,3 @@ AdvancedCalculator/
 
 **Ikram Ronaba** – passionate about web development
 [GitHub Profile](https://github.com/ikram-ronaba)
-
-````
-
-
-
-بغيت نديرها ليك؟
